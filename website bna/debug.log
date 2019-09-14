@@ -1,0 +1,6 @@
+[0825/084922.971:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value f519c89f31954fdcb4e1456d3b1ece8d
+[0825/084923.565:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0909/165838.703:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value f519c89f31954fdcb4e1456d3b1ece8d
+[0909/165838.734:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0914/075909.750:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value f519c89f31954fdcb4e1456d3b1ece8d
+[0914/075909.828:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
